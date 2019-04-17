@@ -84,6 +84,5 @@ public class CustomWorldThumbnails {
 				}
 			}, NAME).start();
 		}
-		System.out.println(event);
 	}
 }
